@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="noResults">No stories found using those terms.</string>
+    <string name="noInternet">Woops. There does not seem to be an internet connection.</string>
+    <string name="api_key">fd34f2e0-3c06-44a4-aea6-edd90e2ff06d</string>
+    <string name="default_url">https://content.guardianapis.com/search?&amp;show-tags=contributor&amp;api-key=fd34f2e0-3c06-44a4-aea6-edd90e2ff06d</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Search Settings</string>
+    <string name="settings_number_of_results_label">Number of stories to display</string>
+    <string name="settings_number_of_stories_key">page-size</string>
+    <string name="settings_number_of_stories_default">10</string>
+    <string name="toast_message">You don\'t seem to have an acceptable web browser installed.</string>
+</resources>
